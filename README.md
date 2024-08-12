@@ -68,6 +68,8 @@ TensorFlow
 OpenCV
 Axios
 CSS
+HTML
+Deep Learning
 
 
 Contributing
